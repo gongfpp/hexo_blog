@@ -436,9 +436,9 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>感谢Hexo完成了极其方便的一键部署</span></a>
+    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>感谢Hexo框架</span></a>
     <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>感谢Fluid主题的美化</span></a> '
+    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>感谢Fluid主题美化</span></a> '
 
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
@@ -470,7 +470,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/warthunder.png
+  banner_img: /img/banner.jpeg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
